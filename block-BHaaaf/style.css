@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(12, 0, 17);
+    font-size: 34px;
+}
+p {
+    color: rgb(21, 221, 94);
+    font-size: 13px;
+}
+body {
+    background-color: rgb(243, 242, 241);
+}
+.heading {
+    color: darkred;
+    font-size: 45px;
+}
+#unique {
+    color: rgb(7, 0, 0);
+    font-size: 31px;
+}
