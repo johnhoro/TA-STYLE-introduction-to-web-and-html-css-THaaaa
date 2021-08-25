@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(6, 6, 105, 0.719);
+    color: white;
+    margin: 25px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height-step: 15px
+    ;
+}
+a{
+    color: red;
+}
+
+.heading{
+    color: green;
+}
+ul{
+    list-style: none;
+    display: block;
+}
+.social.a{
+    color: red;
+    margin: auto;
+    
+}
