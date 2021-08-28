@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(5, 5, 151, 0.726);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+}
+.green{
+    color: green;
+}
+ul{
+    align-items: center;
+    list-style: none;
+    margin-left:none;
+    text-align: left;
+}
+.social{
+    border: 1px solid rgba(10, 10, 100, 0.712);
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(10, 10, 100, 0.712);
+    margin: auto;
+
+}
+a{
+    color: red;
+    margin: 0 15px;
+}
+footer{
+    height: 100%;
+}
+#list{
+    align-items: center;
+}
